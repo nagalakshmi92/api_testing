@@ -44,7 +44,7 @@ extensions = [
 ]
 
 # Breathe extension variables
-breathe_projects = { "HIP: Heterogenous-computing Interface for Portability" : "HIP_Docs/RuntimeAPI/xml" }
+breathe_projects = { "HIP: Heterogenous-computing Interface for Portability" : "RuntimeAPI/xml" }
 breathe_default_project = "HIP: Heterogenous-computing Interface for Portability"
 
 # Add any paths that contain templates here, relative to this directory.
